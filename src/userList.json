@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Rohit Parihar",
+            "isOnline": true,
+            "lastActive": null
+        },
+        {
+            "id": 2,
+            "name": "Rakesh Shaw",
+            "isOnline": true,
+            "lastActive": null
+        },
+        {
+            "id": 3,
+            "name": "Atharva Gawande",
+            "isOnline": false,
+            "lastActive": "2024-03-01T15:08:57.558Z"
+        },
+        {
+            "id": 4,
+            "name": "Priya Kumari",
+            "isOnline": false,
+            "lastActive": "2024-03-01T14:08:57.558Z"
+        }
+    ]
+}

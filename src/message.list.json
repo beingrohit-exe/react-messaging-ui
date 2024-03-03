@@ -1,0 +1,100 @@
+{
+    "messages": [
+        {
+            "id": 1,
+            "sender": "me",
+            "reciver": "other",
+            "message": "Hello"
+        },
+        {
+            "id": 2,
+            "sender": "other",
+            "reciver": "me",
+            "message": "Hi"
+        },
+        {
+            "id": 3,
+            "sender": "me",
+            "reciver": "other",
+            "message": "Kaise ho"
+        },
+        {
+            "id": 4,
+            "sender": "me",
+            "reciver": "other",
+            "message": "Milte ni aajkl tum"
+        },
+        {
+            "id": 5,
+            "sender": "other",
+            "reciver": "me",
+            "message": "badhiya, tum batao"
+        },
+        {
+            "id": 6,
+            "sender": "me",
+            "reciver": "other",
+            "message": "hum bhi badhiya guru"
+        },
+        {
+            "id": 7,
+            "sender": "me",
+            "reciver": "other",
+            "message": "kfhnfg hfgnhodfnhdf dfhodfghndf"
+        },
+        {
+            "id": 8,
+            "sender": "other",
+            "reciver": "me",
+            "message": "badhiya, tum batao"
+        },
+        {
+            "id": 9,
+            "sender": "me",
+            "reciver": "other",
+            "message": "kfhnfg hfgnhodfnhdf dfhodfghndf"
+        },
+        {
+            "id": 10,
+            "sender": "other",
+            "reciver": "me",
+            "message": "badhiya, tum batao"
+        },
+        {
+            "id": 11,
+            "sender": "me",
+            "reciver": "other",
+            "message": "kfhnfg hfgnhodfnhdf dfhodfghndf"
+        },
+        {
+            "id": 12,
+            "sender": "me",
+            "reciver": "other",
+            "message": "Milte ni aajkl tum"
+        },
+        {
+            "id": 13,
+            "sender": "other",
+            "reciver": "me",
+            "message": "kfhnfg hfgnhodfnhdf dfhodfghndf"
+        },
+        {
+            "id": 14,
+            "sender": "me",
+            "reciver": "other",
+            "message": "Milte ni aajkl tum"
+        },
+        {
+            "id": 15,
+            "sender": "me",
+            "reciver": "other",
+            "message": "hum bhi badhiya guru"
+        },
+        {
+            "id": 16,
+            "sender": "other",
+            "reciver": "me",
+            "message": "kfhnfg hfgnhodfnhdf dfhodfghndf"
+        }
+    ]
+}
